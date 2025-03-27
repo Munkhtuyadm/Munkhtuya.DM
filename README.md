@@ -6,4 +6,4 @@
 ---
 ## 📊 GitHub Stats
 
-[![Munkhtuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-B&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Munkhtuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munkhtuya-DM&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
