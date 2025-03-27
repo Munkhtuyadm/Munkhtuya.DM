@@ -4,3 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=Nara-B&color=orange&style=flat-square" width="150">
 
 ---
+## 📊 GitHub Stats
+
+[![Munkhtuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nara-B&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
